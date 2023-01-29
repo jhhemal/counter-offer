@@ -1,0 +1,19 @@
+/* .HomePage {
+    text-align: center;
+  } */
+
+  .HomePage {
+    align-items: center;
+  }
+  .balance {
+    padding-top: 20px
+  }
+  .h {
+    padding-top: 20px
+  }
+  /* .card {
+    justify-content: left;
+    background-color: lightgrey;
+    border: 5px solid black
+  
+  } */

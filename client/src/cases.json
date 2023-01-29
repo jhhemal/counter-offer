@@ -1,0 +1,63 @@
+[
+  {"name": "College New Grad Zero-Sum Salary", 
+  "id": "0",
+  "summary": "Negotiation on base starting salary between recent grad and hiring manager.",
+  "insn1": "You are a hiring manager at Google. The company is currently in good standing and there are many projects being developed. Although Google has more than 27000 worldwide software developers, a new team is in need of more employees to build an emerging technology. However, you reserve the right to budget the income differently for new employees, and the more you offer new employees, the smaller is your overall bonus.",
+  "insn2": "You are a recent graduate from a university. Having a Bachelor’s degree in Computer Science and interned at a different company, you are excited to start a new journey at Google. However, you have found out that a classmate from the same major and university was offered a $200k annual income deal. You want to ask the hiring manager to increase your salary and negotiate with them..",
+  "money": "$150k", 
+  "parties": "2 parties: hiring manager and incoming employee",
+  "role1": "Hiring Manager",
+  "role2": "New Graduate",
+  "img1": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imiji_gugeulkolia_yunibeoseol_dijain_jeogy.max-1000x1000_jSTpUTL.jpg",
+  "img2": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2019/09/Degree-Completion-Program.jpg",
+  "sum1": "You're a manager at Google who was recently hired as a new grad. You'd like to compensate them fairly, but the more you give out the smaller your bonus.", 
+  "sum2": "You're a recent grad who's made it through the interview process at Google. You would like to get as high a salary without coming off as greedy."
+  },
+
+
+  {"name": "Retirement Benefits Match", 
+  "id": "1",
+  "summary": "Negotiation on 401(k) match between a tech professional and their hiring manager.",
+  "insn1": "You are a head of the human resourses department at Amazon. Although Amazon has more than 35,000 worldwide software developers, it is constantly developing new projects and hiring managers do not want them to leave the company. However, you reserve the right to budget the income and benefits differently for new employees, and the more benefits you offer employees, the smaller is your overall bonus.",
+
+  "insn2": "You are a current professional at Amazon and was offered a position to work at Netflix. Despite loving your job at Amazon and your current income benefits, you are offered a package that dedicates 100% of your 401(k) contribution up to 6%, while you currently get about 50% of your contribution matched up to 6%. Having done your research, you know that since many companies have abandoned pension plans, 401(k) matching is a way to contribute to employees’ retirement.",
+ "money": "$100k", 
+  "parties": "2 parties: head of the human resourses departmentr and current employee",
+  "role1": "Head of the HR department",
+  "role2": "Current Employee",
+  "img1": "https://s.yimg.com/ny/api/res/1.2/gBz_zxDWHzFQkPJIcmKoyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/gobankingrates_644/d9fce044789ca5ccd17c841c4ce9a7f1",
+  "img2": "https://images.ctfassets.net/i5wc420v2vd1/4eBG2IA6UnAjlnBhrpGqM/da692f8a5817b615fee746f4d9339f32/main_NF-0723__1_.jpg?w=900",
+  "sum1": "You're the head of the human resources department at Amazon. You would like to compensate them fairly, but the more you give out the smaller your bonus.", 
+  "sum2": "You're a current employee who has recently been offered a position at Netflix. You would like to get a matching benefits deal without seeming inflexible and unreasonable."
+  },
+
+{"name": "Starting Bonus Negotiation",
+  "id": "2",
+  "summary": "Negotiation on sign on bonus between doctoral grad and a hedge fund hiring manager.",
+  "insn1": "You are a hiring manager at Two Sigma. The hedge fund has received abundant management fees and incentive fees due to the strong returns in its various investment areas. You currently have 800 engineers, but to keep up with investor demand, you are increasing your headcount. Engineers are necessary to expand existing infrastructure and implement various trading models. Although you currently have ample capital, you do not want to unnecessarily overpay and squander your company’s resources. The greater the compensation offered for your hires, the lesser is your personal overall bonus.", 
+  "insn2": "You are a recent PhD graduate in Computer Science with a bachelor’s in Physics. You have performed research at the intersection of physics and computer science in computational physics. You have been offered a $30k signing bonus by Two Sigma, but you know that this amount is substantially below the standard in the industry and the maximum potential signing bonus of $90k",
+  "money": "$90k", 
+  "parties": "2 parties: hiring manager and incoming employee",
+  "role1": "Hiring Manager",
+  "role2": "Doctoral Graduate",
+  "img1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twosigma.com%2F&psig=AOvVaw0wBiATLnGfFROjOFVgxciW&ust=1675059991288000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiQk_GS7PwCFQAAAAAdAAAAABAD",
+  "img2": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2019/09/Degree-Completion-Program.jpg",
+  "sum1": "You’re a hiring manager at Two Sigma. You would like to adequately compensate your hires while also considering the size of your bonus.", 
+  "sum2": "You are a doctoral graduate and a potential hire for a quant engineering job. You would like to get compensation that is on the high end of the spectrum for your occupation."
+  },
+
+  {"name": "College Internship Benefits", 
+  "id": "3",
+  "summary": "Negotiation benefits such as housing and relocation stipends between current college student and a hiring manager.",
+  "insn1": "You are a hiring manager at Uber. The company has been interested in hiring new interns in order to use the internship program as a pipeline for full-time employees. The recent hired intern comes up to you asking to negotiate the stipend offer. However, you reserve the right to budget the benefits differently for new employees, and the more you offer new employees, the smaller is your overall bonus.",
+  "insn2": "You are a current undergraduate student from a university. Now pursuing a Bachelor’s degree in Computer Science and who has won hackathons in the past, you are excited to start your career at Uber. However, you cannot afford to move to San Francisco to complete your internship unless there is a stipend for housing and transportation. You want to ask the hiring manager to consider allocating some stipend for new interns coming from other regions.",
+  "money": "$15k", 
+  "parties": "2 parties: hiring manager and incoming intern",
+  "role1": "Hiring Manager",
+  "role2": "Current Undergraduate",
+  "img1": "https://images.ctfassets.net/e8i6c2002cqg/3cvN3KsvDnHhjs8SONIWPe/5960cbc2321197d886a4f04ba303e0f9/10316737_MotionElements_editorial-uber-logo-on-glass-building-0060.jpg",
+  "img2": "https://www.publicservicedegrees.org/wp-content/uploads/2020/05/first-generation-college-students-scaled.jpg",
+  "sum1": "You're a manager at Google who was recently hired as a new grad. You'd like to compensate them fairly, but the more you give out the smaller your bonus.", 
+  "sum2": "You're a recent grad who's made it through the interview process at Google. You would like to get as high a salary without tarnishing your reputation with your new boss."
+  }
+]
